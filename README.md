@@ -1,2 +1,2 @@
 # learning-about-version-control
-Author: Shiyang Zhang 
+Author: Shiyang Zhang (Harry)
